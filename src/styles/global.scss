@@ -1,0 +1,15 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #2f3542;
+  color: white;
+  letter-spacing: 0.5px;
+}
+
+.container {
+  text-align: center;
+}
